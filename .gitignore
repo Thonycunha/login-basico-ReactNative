@@ -128,3 +128,15 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Arquivos específicos do Expo
+.expo
+.expo-shared
+.idea
+.vscode
+.cache
+npm-debug.log*
+npm-debug.log
+npm-debug.log.*
+*.tgz
+*.map
